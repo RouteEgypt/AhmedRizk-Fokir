@@ -1,0 +1,232 @@
+@media screen and (max-width:600px) {
+    .navigationDetails a {
+        display: none;
+    }
+
+    .navigation {
+        height: 60px;
+    }
+
+    .navigationFokir a {
+        width: 100%;
+    }
+    
+    .aboutPicture {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .aboutBox {
+        border: none;
+    }
+
+    .aboutBoxPic {
+        transform: translateY(0px) translateX(0px);
+    }
+
+    .aboutContent {
+        width: 100%;
+    }
+    
+    .aboutContentDiscription li {
+        width: 100%;
+    }
+
+    .aboutContentDiscription .rightcorner {
+        width: 100%;
+    }
+
+    .cv button {
+        margin: 5px;
+    }
+
+    .serviceIconContainer {
+        width: 100%;
+    }
+
+    .servicesIcon p {
+        width: 200px;
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .portfolioitem {
+        width: 100%;
+    }
+
+    .factsPart {
+        width: 100%;
+        padding: 15px 15px;
+    }
+
+    .facts {
+        padding: 50px 0px;
+        background-color: #f1f1f1;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .imgContainer {
+        width: 50%;
+    }
+
+    .comment {
+        padding: 0;
+    }
+
+    .blogConentItem {
+        width: 100%;
+        padding: 20px 20px;
+    }
+
+    .contactFormContainer {
+        width: 80%;
+    }
+}
+
+@media only screen and (min-width: 601px) and (max-width:992px) {
+    .navigationDetails a {
+        display: none;
+    }
+
+    .navigation {
+        height: 60px;
+    }
+
+    .navigationFokir a {
+        width: 100%;
+    }
+    
+    .aboutPicture {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .aboutBox {
+        border: none;
+    }
+
+    .aboutBoxPic {
+        transform: translateY(0px) translateX(0px);
+    }
+
+    .aboutContent {
+        width: 100%;
+    }
+
+    .aboutBox {
+        border: none;
+    }
+
+    .aboutBoxPic {
+        transform: translateY(0px) translateX(0px);
+    }
+
+    .cv button {
+        margin-right: 5px;
+    }
+
+    .serviceIconContainer {
+        width: 50%;
+    }
+
+    .portfolioitem {
+        width: 50%
+    }
+
+    .portfolioProducts {
+        width: 80%;
+        margin: auto;
+    }
+
+    .imgContainer {
+        width: 30%;
+    }
+
+    .comment {
+        width: 70%;
+        padding-left: 30px;
+    }
+
+    .blogConentItem {
+        width: 100%;
+        padding: 20px 20px;
+    }
+
+    .contactFormContainer {
+        width: 75%;
+    }
+}
+
+@media only screen and (min-width: 993px) and (max-width:1200px) {
+    .navigationDetails a {
+        display: none;
+    }
+
+    .navigation {
+        height: 60px;
+    }
+
+    .navigationFokir a {
+        width: 100%;
+    }
+
+    .cv button {
+        margin: 5px;
+    }
+
+    .aboutPicture {
+        width: 40%;
+        height: 50%;
+    }
+
+    .aboutContent {
+        width: 60%;
+    }
+    
+    .serviceIconContainer {
+        width: 50%;
+    }
+
+    .servicesIcon p {
+        width: 300px;
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    
+    .aboutBox {
+        border: none;
+    }
+
+    .aboutBoxPic {
+        transform: translateY(0px) translateX(0px);
+    }
+    .portfolioProducts {
+        width: 75%;
+        margin: auto;
+    }
+
+    .imgContainer {
+        width: 25%;
+    }
+
+    .comment {
+        width: 75%;
+        padding-left: 40px;
+    }
+
+    .blogConentItem {
+        width: 50%;
+    }
+
+    #video iframe {
+        height: 19%;
+    }
+
+    .contactFormContainer {
+        width: 70%;
+    }
+}
